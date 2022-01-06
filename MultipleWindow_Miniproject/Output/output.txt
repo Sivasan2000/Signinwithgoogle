@@ -1,0 +1,11 @@
+Screenshot is successfully taken and redirected to Screenshots folder
+Testcase passed: Create Rediffmail account is opened
+The Total number of links on the webpage are: 
+3
+The links on the webpage are: 
+Homehttp://www.rediff.com/
+terms and conditionsjavascript:terms_win()
+privacy policyhttp://www.rediff.com/w3c/policy.html
+Testcase passed: The child window 'Terms and Conditions' is opened
+Screenshot is successfully taken and redirected to Screenshots folder
+Testcase Passed: Title of the page is Terms and Conditions
